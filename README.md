@@ -14,7 +14,7 @@
 #### How does the program calculate the returns of a strategy?
 
 1. Retrieve Historical Market Data
-2. Analyze RSI (Relative Strength Index) 
+2. Calculate RSI (Relative Strength Index) 
 3. Generate Trading Signals  
 4. Backtest and Visualize Strategy Outcomes
 5. Summarize Performance Metrics
