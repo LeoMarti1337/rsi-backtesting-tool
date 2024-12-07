@@ -1,4 +1,3 @@
-```markdown
 # RSI Backtesting Tool
 
 ## Project Information (Creators, Group ID, Assignment)
