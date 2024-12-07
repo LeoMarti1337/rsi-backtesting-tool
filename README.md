@@ -40,13 +40,7 @@
    git clone https://github.com/LeoMarti1337/rsi-backtesting-tool
    cd rsi-backtesting-tool
 
-2. (Optional) Create and activate a virtual environment:
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # Linux/macOS
-   venv\Scripts\activate     # Windows
-   ```
-3. Install required packages (if needed):
+2. Install required packages (if needed):
    ```bash
    pip install -r requirements.txt
    ```
