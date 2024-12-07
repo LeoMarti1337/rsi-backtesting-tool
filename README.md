@@ -81,5 +81,6 @@ RSI Oversold Level:     **30**
 
 ![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)<br>
 
-While the strategy achieved higher historical returns than a buy-and-hold approach for JPMorgan, it underperformed compared to buy-and-hold for all other companies. However, volatility decreased and the Sharpe ratio increased in nearly all company backtests, resulting in a more stable portfolio over time.
+While the strategy achieved higher historical returns than a buy-and-hold approach for JPMorgan, it underperformed compared to buy-and-hold for all other companies. However, it is noteworthy that volatility decreased and the Sharpe ratio increased in nearly all company backtests, resulting in a more stable portfolio over time. Additionally, maximum drawdowns were significantly lower in most backtests.
+
 
