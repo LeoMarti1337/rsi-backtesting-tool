@@ -1,9 +1,9 @@
 # RSI Backtesting Tool
 
 ## Project Information
-**Assignment:** Coding Group Project
-**Group ID:** 3360
-**Creators:** Arthur, Samuel, Leo  
+-**Assignment:** Coding Group Project
+-**Group ID:** 3360
+-**Creators:** Arthur, Samuel, Leo  
 
 ## Program Summary
 **RSI Backtesting Tool** is a Python application that enables traders to evaluate RSI (Relative Strength Index) trading strategies using historical stock data. It provides a user-friendly GUI to configure strategy parameters, execute backtests, and visualize performance metrics compared to buy-and-hold strategies.
