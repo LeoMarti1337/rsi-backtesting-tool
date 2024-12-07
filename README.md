@@ -39,6 +39,7 @@
    ```bash
    git clone https://github.com/LeoMarti1337/rsi-backtesting-tool
    cd rsi-backtesting-tool
+   ```
    *(If a you have problems with git, download the contents manually and open cmd in the correct repository.)*
 
 2. Install required packages (if needed):
