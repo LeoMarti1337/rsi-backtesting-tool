@@ -10,6 +10,7 @@
 .
 ├─ main.py
 ├─ README.md
+├─ requirements.txt
 └─ subcode
    ├─ app.py
    ├─ calculation.py
