@@ -37,9 +37,9 @@
 **Installation Steps:**
 1. Clone the repository:
    ```bash
-   git clone [your_repository_url_here]
-   cd [your_repository_directory]
-   ```
+   git clone https://github.com/LeoMarti1337/rsi-backtesting-tool
+   cd rsi-backtesting-tool
+
 2. (Optional) Create and activate a virtual environment:
    ```bash
    python3 -m venv venv
@@ -69,7 +69,7 @@
 Adjust these settings to analyze different companies or time periods.
 
 ## Example Backtest of a Strategy
-Below is an excerpt from `app.py` showing the backtest of the RSI-Strategy with these parameters:<br>
+Below is an excerpt from the Interface showing the backtest of the RSI-Strategy with these parameters:<br>
 
 
 Company:                **JPMorgan Chase & Co. (JPM)**<br>
