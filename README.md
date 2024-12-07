@@ -11,6 +11,33 @@
 ## Project Description
 **RSI Backtesting Tool** is a Python application that enables traders to evaluate RSI (Relative Strength Index) trading strategies using historical stock data. It provides a user-friendly GUI to configure strategy parameters, execute backtests, and visualize performance metrics compared to buy-and-hold strategies.
 
+# Features
+
+This project provides a comprehensive toolkit for analyzing and backtesting trading strategies based on historical stock data. The key features include:
+
+1. **Download Historical Stock Data**  
+   - Fetch historical stock data for a predefined list of companies.
+   - Supports configurable date ranges and granular time intervals.
+
+2. **Compute RSI Indicator**  
+   - Calculate the Relative Strength Index (RSI) for stocks to evaluate overbought and oversold conditions.
+
+3. **Generate Buy/Sell Signals**  
+   - Automatically identify trading signals based on RSI thresholds.
+   - Supports custom logic for defining buy and sell signals.
+
+4. **Backtest Strategies and Visualize Results**  
+   - Simulate the performance of trading strategies over historical data.
+   - Visualize portfolio value over time and overlay buy/sell signals on price charts.
+
+5. **Summarize Strategy Metrics**  
+   - Evaluate performance with key metrics, including:
+     - **Total Return**: Measure the largest peak-to-trough loss.     
+     - **Maximum Drawdown**: Measure the largest peak-to-trough loss.
+     - **Volatility**: Assess the standard deviation of returns.
+     - **Sharpe Ratio**: Calculate the risk-adjusted return.
+
+This toolkit is ideal for traders, investors, and data analysts seeking to test and refine their trading strategies.
 ## Example Backtest of a Strategy
 Below is an excerpt from the Interface showing the backtest of the RSI-Strategy with these parameters:<br>
 
