@@ -11,6 +11,21 @@
 ## Project Description
 **RSI Backtesting Tool** is a Python application that enables traders to evaluate RSI (Relative Strength Index) trading strategies using historical stock data. It provides a user-friendly GUI to configure strategy parameters, execute backtests, and visualize performance metrics compared to buy-and-hold strategies.
 
+## Example Backtest of a Strategy
+Below is an excerpt from the Interface showing the backtest of the RSI-Strategy with these parameters:<br>
+
+
+Company:                **JPMorgan Chase & Co. (JPM)**<br>
+Starting capital:       **$10,000**<br>
+Fee per Trade:          **0.1%**<br>
+RSI Overbought Level:   **70**<br>
+RSI Oversold Level:     **30**
+
+
+![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)<br>
+
+While the strategy achieved higher historical returns than a buy-and-hold approach for JPMorgan, it underperformed compared to buy-and-hold for all other companies. However, it is noteworthy that volatility decreased and the Sharpe ratio increased in nearly all company backtests, resulting in a more stable portfolio over time. Additionally, maximum drawdowns were significantly lower in most backtests.
+
 ## Directory Structure
 ```
 .
@@ -63,20 +78,4 @@
   - **START_DATE** and **END_DATE**: Default date range for historical data retrieval.
 
 Adjust these settings to analyze different companies or time periods.
-
-## Example Backtest of a Strategy
-Below is an excerpt from the Interface showing the backtest of the RSI-Strategy with these parameters:<br>
-
-
-Company:                **JPMorgan Chase & Co. (JPM)**<br>
-Starting capital:       **$10,000**<br>
-Fee per Trade:          **0.1%**<br>
-RSI Overbought Level:   **70**<br>
-RSI Oversold Level:     **30**
-
-
-![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)<br>
-
-While the strategy achieved higher historical returns than a buy-and-hold approach for JPMorgan, it underperformed compared to buy-and-hold for all other companies. However, it is noteworthy that volatility decreased and the Sharpe ratio increased in nearly all company backtests, resulting in a more stable portfolio over time. Additionally, maximum drawdowns were significantly lower in most backtests.
-
 
