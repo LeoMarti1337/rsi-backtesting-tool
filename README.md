@@ -8,7 +8,7 @@
 
 **Creators:** Arthur, Samuel, Leo  
 
-## Program Summary
+## Project Description
 **RSI Backtesting Tool** is a Python application that enables traders to evaluate RSI (Relative Strength Index) trading strategies using historical stock data. It provides a user-friendly GUI to configure strategy parameters, execute backtests, and visualize performance metrics compared to buy-and-hold strategies.
 
 ## Directory Structure
@@ -32,7 +32,7 @@
 ## Installation & Requirements
 **Requirements:**
 - Python 3.8+
-- Packages listed in `calculation.py` imports (e.g., `yfinance`, `pandas`, `numpy`, `matplotlib`, `tkinter` (included with standard Python), `ttk`).
+- Packages listed in `requirements.txt`
 
 **Installation Steps:**
 1. Clone the repository:
