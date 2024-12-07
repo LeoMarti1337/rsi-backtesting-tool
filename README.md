@@ -81,4 +81,5 @@ RSI Oversold Level:     **30**
 
 ![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)<br>
 
-This strategy worked historically, but don't be fooled! For most companies this strategy would have performed worse than just buying the stock and doing nothing else.<br>
+While this strategy yielded positive historical results, it often underperformed compared to a simple buy-and-hold approach for most companies. However, it is noteworthy that the volatility decreased and Sharpe Ratio increased across nearly all company-backtests.
+
