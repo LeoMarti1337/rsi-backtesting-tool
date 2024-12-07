@@ -32,7 +32,7 @@ This project provides a comprehensive toolkit for analyzing and backtesting trad
 
 5. **Summarize Strategy Metrics**  
    - Evaluate performance with key metrics, including:
-     - **Total Return**: Measure the largest peak-to-trough loss.     
+     - **Total Return**: calculates how much the portfolio grew given time frame     
      - **Maximum Drawdown**: Measure the largest peak-to-trough loss.
      - **Volatility**: Assess the standard deviation of returns.
      - **Sharpe Ratio**: Calculate the risk-adjusted return.
