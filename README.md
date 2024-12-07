@@ -78,7 +78,7 @@ self.fee_entry.insert(0, "0.1")             # Fee per Trade: 0.1%
 self.overbought_entry.insert(0, "70")       # RSI Overbought Level: 70
 self.oversold_entry.insert(0, "30")         # RSI Oversold Level: 30
 ```
-```
+
 
 
 ![image](https://github.com/user-attachments/assets/6b00d0e2-762c-49e3-99fc-c84fd1d5d30d)
