@@ -32,14 +32,7 @@
 
 
 ## Example Backtest of a Strategy
-Below is an excerpt from the Interface showing the backtest of the RSI-Strategy with these parameters:<br>
-
-
-Company:                **JPMorgan Chase & Co. (JPM)**<br>
-Starting capital:       **$10,000**<br>
-Fee per Trade:          **0.1%**<br>
-RSI Overbought Level:   **70**<br>
-RSI Oversold Level:     **30**
+Below is an excerpt from the Interface showing the backtest of the RSI-Strategy with a given set of parameters.
 
 
 ![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)<br>
