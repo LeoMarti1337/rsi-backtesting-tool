@@ -69,17 +69,16 @@
 Adjust these settings to analyze different companies or time periods.
 
 ## Example (Screenshot/Code Snippet)
-Below is an excerpt from `app.py` showing the initial default parameters for the RSI strategy:
-
-```python
-self.company_var.set('JPMorgan Chase & Co. (JPM)')
-self.capital_entry.insert(0, "10000")       # Starting capital: $10,000
-self.fee_entry.insert(0, "0.1")             # Fee per Trade: 0.1%
-self.overbought_entry.insert(0, "70")       # RSI Overbought Level: 70
-self.oversold_entry.insert(0, "30")         # RSI Oversold Level: 30
-```
+Below is an excerpt from `app.py` showing the backtest of the RSI-Strategy with these parameters:
 
 
+Company:                JPMorgan Chase & Co. (JPM)
+Starting capital:       $10,000
+Fee per Trade:          0.1%
+RSI Overbought Level:   70
+RSI Oversold Level:     30
 
-![image](https://github.com/user-attachments/assets/6b00d0e2-762c-49e3-99fc-c84fd1d5d30d)
 
+![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)
+
+This strategy worked historically, but don't be fooled! For most companies this strategy would have performed worse than just buying the stock and doing nothing else.
