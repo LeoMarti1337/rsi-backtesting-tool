@@ -68,11 +68,14 @@ While the strategy achieved higher historical returns than a buy-and-hold approa
 ## Usage Instructions
 1. Run the main application:
    ```bash
-   python main.py
+   python main.py #for Windows
    ```
-2. The RSI Backtesting Tool’s GUI will appear.  
-3. Choose a company from the dropdown, set initial capital, fee percentage, and RSI thresholds.
-4. Click on **"Run Backtest"** to generate the analysis and view the performance metrics and charts.
+   ```bash
+   python3 main.py #for Mac
+   ```
+1. The RSI Backtesting Tool’s GUI will appear.  
+2. Choose a company from the dropdown, set initial capital, fee percentage, and RSI thresholds.
+3. Click on **"Run Backtest"** to generate the analysis and view the performance metrics and charts.
 
 ## Configuration Details
 - The `subcode/configuration.py` file defines:
