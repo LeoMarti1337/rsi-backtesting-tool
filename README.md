@@ -46,7 +46,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-   *(If a `requirements.txt` file is not provided, install needed libraries like `yfinance`, `pandas`, `numpy`, `matplotlib` manually.)*
+   *(If that fails, install needed libraries like `yfinance`, `pandas`, `numpy`, `matplotlib` manually.)*
 
 ## Usage Instructions
 1. Run the main application:
