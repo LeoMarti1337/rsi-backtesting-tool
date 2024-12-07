@@ -68,17 +68,17 @@
 
 Adjust these settings to analyze different companies or time periods.
 
-## Example (Screenshot/Code Snippet)
-Below is an excerpt from `app.py` showing the backtest of the RSI-Strategy with these parameters:
+## Example Backtest of a Strategy
+Below is an excerpt from `app.py` showing the backtest of the RSI-Strategy with these parameters:<br>
 
 
-Company:                JPMorgan Chase & Co. (JPM)
-Starting capital:       $10,000
-Fee per Trade:          0.1%
-RSI Overbought Level:   70
-RSI Oversold Level:     30
+Company:                JPMorgan Chase & Co. (JPM)<br>
+Starting capital:       $10,000<br>
+Fee per Trade:          0.1%<br>
+RSI Overbought Level:   70<br>
+RSI Oversold Level:     30<br>
 
 
-![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)
+![image](https://github.com/user-attachments/assets/9d384534-ff61-485d-9198-4a999ea7067e)<br>
 
-This strategy worked historically, but don't be fooled! For most companies this strategy would have performed worse than just buying the stock and doing nothing else.
+This strategy worked historically, but don't be fooled! For most companies this strategy would have performed worse than just buying the stock and doing nothing else.<br>
